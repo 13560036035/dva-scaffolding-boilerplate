@@ -8,7 +8,7 @@
 
 ``` shell
 npm install -g vue-cli
-vue init whiskyoo/dva-scaffolding-boilerplate <your project name>
+vue init 13560036035/dva-scaffolding-boilerplate <your project name>
 cd <your project name>
 npm install
 npm start
